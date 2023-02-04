@@ -21,3 +21,4 @@ si el menor que 0 entonces se cancela la operacion
 | cantidad | moneda de origen | cantidad convertida | moneda de destino  |
 ~~~
 ##  Diseño de la solucion 
+!
